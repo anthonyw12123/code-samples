@@ -1,0 +1,13 @@
+ColumnName,TableName
+ModifiedDate,Address
+ModifiedDate,BuildVersion
+ModifiedDate,Customer
+ModifiedDate,CustomerAddress
+ModifiedDate,CustomerDuplicates
+ModifiedDate,Product
+ModifiedDate,ProductCategory
+ModifiedDate,ProductDescription
+ModifiedDate,ProductModel
+ModifiedDate,ProductModelProductDescription
+ModifiedDate,SalesOrderDetail
+ModifiedDate,SalesOrderHeader
