@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{491175AA-7600-4447-856A-FA233322AE16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlockOfSeagulls/Program.cs">
+    <Files>
+      <File FileName="FlockOfSeagulls/Program.cs" Line="45" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlockOfSeagulls" expanded="True">
+            <Node name="FlockOfSeagulls" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlockOfSeagulls PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

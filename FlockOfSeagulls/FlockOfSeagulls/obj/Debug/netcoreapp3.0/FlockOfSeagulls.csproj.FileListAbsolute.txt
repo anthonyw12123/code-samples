@@ -1,0 +1,11 @@
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/bin/Debug/netcoreapp3.0/FlockOfSeagulls
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/bin/Debug/netcoreapp3.0/FlockOfSeagulls.deps.json
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/bin/Debug/netcoreapp3.0/FlockOfSeagulls.runtimeconfig.json
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/bin/Debug/netcoreapp3.0/FlockOfSeagulls.runtimeconfig.dev.json
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/bin/Debug/netcoreapp3.0/FlockOfSeagulls.dll
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/bin/Debug/netcoreapp3.0/FlockOfSeagulls.pdb
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/obj/Debug/netcoreapp3.0/FlockOfSeagulls.csprojAssemblyReference.cache
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/obj/Debug/netcoreapp3.0/FlockOfSeagulls.AssemblyInfoInputs.cache
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/obj/Debug/netcoreapp3.0/FlockOfSeagulls.AssemblyInfo.cs
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/obj/Debug/netcoreapp3.0/FlockOfSeagulls.dll
+/Users/anthony/Documents/Git/code-samples/FlockOfSeagulls/FlockOfSeagulls/obj/Debug/netcoreapp3.0/FlockOfSeagulls.pdb
